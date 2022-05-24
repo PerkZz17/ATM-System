@@ -13,7 +13,7 @@ Its not very pretty and organized/optimized but oh well.
 
 It may have a few(many) bugs and may malfunction on your side since its not a project that I focused on, it was only for practice.
 
-I was thinking of showing everything inside the atm but it would take alot of time to manage such thing lol.But yeah might come back to this and add more futures and make more "real" and optimized.
+I was thinking of showing everything inside the atm but it would take alot of time to manage such thing lol. But yeah might come back to this and to that plus add more futures and make more "real" and optimized.
 
 If you find any bugs feel free to hmu on discord PerkZz#0001
 
