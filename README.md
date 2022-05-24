@@ -1,6 +1,6 @@
 # ATM System with DB implemented
 
-You need to add the DB to your SSMS since its not a hosted DB (Its the Atmscript.sql)
+You need to add the DB to your SSMS since its not a hosted DB (Its the AtmDB.bak file)
 
 Simple system that you can create new bank account, login, check balance, add money and withdraw money. Its not very pretty and not very organized/optimized but oh well.
 It may have a few(many) bugs and may malfunction on your side since its not a project that I focused on, it was only for practice, if you find any bug feel free to hmu on discord PerkZz#0001
