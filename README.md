@@ -7,7 +7,7 @@ It may have a few(many) bugs and may malfunction on your side since its not a pr
 
 [![Preview]](https://user-images.githubusercontent.com/66210711/170095272-9bc5ceab-60ce-4856-9294-6a33228e63c3.mp4)
 
-Yes yes it may have a few grammatical errors like you can see on the video, but im pretty lazy to correct them.
+<h3>Yes yes it may have a few grammatical errors like you can see on the video, but im pretty lazy to correct them.</h3>
 
 
 
