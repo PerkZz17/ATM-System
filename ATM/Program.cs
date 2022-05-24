@@ -230,7 +230,7 @@ Console.WriteLine("\t ████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("\n What can we do for you today?");
                 Console.WriteLine("\n 1 - Check balance\n 2 - Add money\n 3 - Withdraw money\n 4 - Exit");
-                Console.Write(" Opion: ");
+                Console.Write(" Option: ");
                 option2 = Console.ReadLine();
                 switch (option2)
                 {
