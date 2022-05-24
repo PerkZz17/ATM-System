@@ -10,7 +10,8 @@ Simple system that you can:
 - Withdraw money. 
 
 Its not very pretty and organized/optimized but oh well.
-It may have a few(many) bugs and may malfunction on your side since its not a project that I focused on, it was only for practice, if you find any bug feel free to hmu on discord PerkZz#0001
+It may have a few(many) bugs and may malfunction on your side since its not a project that I focused on, it was only for practice, but yeah might come back to this and add more futures and make more "real" and optimized.
+If you find any bugs feel free to hmu on discord PerkZz#0001
 
 [![Preview]](https://user-images.githubusercontent.com/66210711/170095272-9bc5ceab-60ce-4856-9294-6a33228e63c3.mp4)
 
